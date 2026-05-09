@@ -8,6 +8,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=kayumovmuhammad&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=kayumovmuhammad&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kayumovmuhammad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayumovmuhammad)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kayumovmuhammad&theme=radical&no-frame=true&no-bg=true&margin-w=4)
